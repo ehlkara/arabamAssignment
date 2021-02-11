@@ -56,7 +56,7 @@ class AuthScreen extends StatelessWidget {
                         'Arabam.com',
                         style: TextStyle(
                           color: Theme.of(context).primaryTextTheme.title.color,
-                          fontSize: 40,
+                          fontSize: 30,
                           fontFamily: 'Anton',
                           fontWeight: FontWeight.normal,
                         ),
